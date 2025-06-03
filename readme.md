@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/-Matlab-0076A8?logo=mathworks&logoColor=white" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisChan114514&layout=compact" />
 </p>
 
