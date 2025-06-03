@@ -4,7 +4,7 @@
 - 📊 I have experience in **NUEDC**(personnal suspended,Stop at HDU match,under the gudiance of Professor Sheng Qinhua),development of **planar microwave sensor** under the guidance of Professor Liu Guohua,and so on. 
 - 👓 I'm passionate about **Embedded system debugging**.
 - 🤖 I'm currently diving deeper into **basic courses** of my major.These are hard to me.
-- 📬 Reach me at: GitHub or [email](mailto:23040447@hdu.edu.cn)
+- 📬 Reach me at: GitHub or [email me](mailto:23040447@hdu.edu.cn?subject=你好&body=你好，请在此填写你的问题)
 
 <!-- 可以插入你的github统计卡片或其他Badge  -->
 <!-- 例如： -->
