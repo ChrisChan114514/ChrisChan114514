@@ -4,7 +4,7 @@
 - 📊 I have experience in **NUEDC**(personnal suspended,Stop at HDU match,under the gudiance of Professor Sheng Qinhua),development of **planar microwave sensor** under the guidance of Professor Liu Guohua,and so on. 
 - 👓 I'm passionate about **Embedded system debugging**.
 - 🤖 I'm currently diving deeper into **basic courses** of my major.These are hard to me.
-- 📬 Reach me at: GitHub or [email](23040447@hdu.edu.cn)
+- 📬 Reach me at: GitHub or [email](mailto:23040447@hdu.edu.cn)
 
 <!-- 可以插入你的github统计卡片或其他Badge  -->
 <!-- 例如： -->
@@ -33,6 +33,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
 
-## LastCommit
-![Gitea Last Commit](https://img.shields.io/gitea/last-commit/ChrisChan114514)
 
