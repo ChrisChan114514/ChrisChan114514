@@ -1,14 +1,14 @@
 # 👋 Hi, I'm @ChrisChan114514.
 
-- 🚀 I'm currently working on （你的主要研究或开发方向）.
-- 📊 I have experience in XXX（简要介绍你的经历，比如某些项目、特定领域等）.
-- 👓 I'm passionate about XXX（你的爱好，如编程、科学、数学等）. I record my notes in [你的博客或主页](你的博客链接).
+- 🚀 I'm currently working on Microcontroller development.
+- 📊 I have experience in NUEDC(suspended,Stop at HDU match),development of planar microwave sensor under the guidance of Professor Liu Guohua.
+- 👓 I'm passionate about XXX（你的爱好，如编程、科学、数学等）.
 - 🤖 I'm currently diving deeper into XXX（你目前专注学习/研究的领域）.
-- 📬 Reach me at: GitHub 或 [你的邮箱](mailto:你的邮箱).
+- 📬 Reach me at: GitHub 或 ).
 
 <!-- 可以插入你的github统计卡片或其他Badge  -->
 <!-- 例如： -->
-![你的GitHub名字's GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=dracula)
+![你的GitHub名字's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisChan114514&show_icons=true&theme=dracula)
 
 ## Languages
 
