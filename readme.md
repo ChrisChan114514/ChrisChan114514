@@ -34,5 +34,5 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
 
 ## LastCommit
-![Gitea Last Commit](https://img.shields.io/gitea/last-commit/:user/:repo)
+![Gitea Last Commit](https://img.shields.io/gitea/last-commit/ChrisChan114514)
 
