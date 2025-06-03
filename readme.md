@@ -19,6 +19,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
 ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?logo=mathworks&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisChan114514&layout=compact)
 
 ## Tools
 
