@@ -4,7 +4,7 @@
 
 🧑‍💻 Undergraduate developer focusing on Embedded Systems and Microcontroller Development.
 
-🧮 Awarded Provincial Second Prize in the 2025 China Undergraduate Mathematical Contest in Modeling (CUMCM).
+🧮 Awarded **Provincial Second Prize** in the 2025 China Undergraduate Mathematical Contest in Modeling (CUMCM).
 
 🧠 Experienced in NUEDC (stopped at HDU match, mentored by Prof. Sheng Qinhua).
 
@@ -12,8 +12,11 @@
 
 🧰 Currently serving as a Teaching Assistant for Digital Logic Design Lab at HDU.
 
-🏛️ Involved in a National Social Science Fund project:
-“Research on the Evaluation and Enhancement Path of AI Large Model Sustainable Development Capability from the Perspective of Energy Correlation” (with HDU School of Management, under the guidance of Prof. Liu Zheng'gang).
+🏛️ Involved in a **National Social Science Fund project**:
+
+“Research on the Evaluation and Enhancement Path of AI Large Model Sustainable Development Capability from the Perspective of Energy Correlation” 
+
+(with HDU School of Management, under the guidance of Prof. Liu Zheng'gang).
 
 🌱 Interests & Focus
 
@@ -25,7 +28,7 @@
 
 🖥️ Server Maintenance & Website Deployment
 
-🌐 Building personal projects at cxrice.tech
+🌐 My personal domain: [cxrice.tech](https://cxrice.tech/)
 
 📚 Currently Learning
 
@@ -83,4 +86,5 @@ Exploring AI-driven embedded applications
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white" />
 </p>
+
 
