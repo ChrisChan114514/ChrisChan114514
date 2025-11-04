@@ -1,10 +1,39 @@
-# 👋 Hi, I'm @ChrisChan114514.
+👋 Hi, I'm Chris Chan (@ChrisChan114514)
 
-- 🚀 I'm currently working on **Microcontroller development**
-- 📊 I have experience in **NUEDC** (personnal suspended, Stop at HDU match, under the gudiance of Professor Sheng Qinhua), development of **planar microwave sensor** under the guidance of Professor Liu Guohua, and so on.
-- 👓 I'm passionate about **Embedded system debugging**.
-- 🤖 I'm currently diving deeper into **basic courses** of my major. These are hard to me.
-- 📬 Reach me at: GitHub or [email me](mailto:23040447@hdu.edu.cn)
+🎯 About Me
+
+🧑‍💻 Undergraduate developer focusing on Embedded Systems and Microcontroller Development.
+
+🧮 Awarded Provincial Second Prize in the 2025 China Undergraduate Mathematical Contest in Modeling (CUMCM).
+
+🧠 Experienced in NUEDC (stopped at HDU match, mentored by Prof. Sheng Qinhua).
+
+📡 Participated in the Planar Microwave Sensor project under the guidance of Prof. Liu Guohua.
+
+🧰 Currently serving as a Teaching Assistant for Digital Logic Design Lab at HDU.
+
+🏛️ Involved in a National Social Science Fund project:
+“Research on the Evaluation and Enhancement Path of AI Large Model Sustainable Development Capability from the Perspective of Energy Correlation” (with HDU School of Management, under the guidance of Prof. Liu Zheng'gang).
+
+🌱 Interests & Focus
+
+🔧 Embedded System Debugging
+
+⚙️ FPGA & Verilog Development
+
+💻 Full-Stack Development (Frontend + Backend)
+
+🖥️ Server Maintenance & Website Deployment
+
+🌐 Building personal projects at cxrice.tech
+
+📚 Currently Learning
+
+Core courses in *Electronics & Information Engineering*
+
+Advanced C/C++, Python, Verilog, and Web Development foundations
+
+Exploring AI-driven embedded applications
 
 ---
 
@@ -54,3 +83,4 @@
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white" />
 </p>
+
