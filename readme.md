@@ -41,7 +41,7 @@ Exploring AI-driven embedded applications
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisChan114514&show_icons=true&theme=dracula" alt="ChrisChan114514's GitHub Stats" />
+  <img src="https://stats.justsong.cn/api?username=ChrisChan114514&show_icons=true&theme=dracula" alt="ChrisChan114514's GitHub Stats" />
 </p>
 
 ---
@@ -86,5 +86,6 @@ Exploring AI-driven embedded applications
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white" />
 </p>
+
 
 
