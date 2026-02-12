@@ -41,7 +41,7 @@ Exploring AI-driven embedded applications
 ---
 
 <p align="center">
-  <img src="https://stats.justsong.cn/api?username=ChrisChan114514&show_icons=true&theme=dracula" alt="ChrisChan114514's GitHub Stats" />
+  <img src="http://120.26.111.75:3003/api?username=ChrisChan114514&show_icons=true&theme=dracula" alt="ChrisChan114514's GitHub Stats" />
 </p>
 
 ---
@@ -57,8 +57,8 @@ Exploring AI-driven embedded applications
   <img src="https://img.shields.io/badge/-Matlab-0076A8?logo=mathworks&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="http://120.26.111.75:3003/api?username=ChrisChan114514&show_icons=true&theme=dracula" alt="ChrisChan114514's GitHub Stats" />
+ <p align="center">
+  <img src="http://120.26.111.75:3003/api/top-langs/?username=ChrisChan114514&layout=compact" />
 </p>
 
 ---
@@ -86,6 +86,7 @@ Exploring AI-driven embedded applications
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white" />
 </p>
+
 
 
 
