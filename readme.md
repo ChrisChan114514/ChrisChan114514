@@ -1,42 +1,34 @@
-👋 Hi, I'm Chris Chan (@ChrisChan114514)
+## 👋 Hi, I'm Chris Chan (@ChrisChan114514) , an Undergraduate developer from Hangzhou Dianzi University.
 
-🎯 About Me
+##  About Me
 
-🧑‍💻 Undergraduate developer focusing on Embedded Systems and Microcontroller Development.
+1. Focusing on Embedded Systems, Microcontroller Development and **SoC Design**.
 
-🧮 Awarded **Provincial Second Prize** in the 2025 China Undergraduate Mathematical Contest in Modeling (CUMCM).
+2. Awarded **Provincial Second Prize** in the China Undergraduate Mathematical Contest in Modeling (CUMCM) in Sep. 2025
 
-🧠 Experienced in NUEDC (stopped at HDU match, mentored by Prof. Sheng Qinhua).
+3. Awarded **Provincial Second Prize** in Zhejiang Provincial Undergraduate Mechanics Competition in Oct. 2025
 
-📡 Participated in the Planar Microwave Sensor project under the guidance of Prof. Liu Guohua.
+4. Awarded **Provincial Third Prize** in Zhejiang Provincial Undergraduate Engineering Practice and Innovation Ability Competition in Nov.2025
 
-🧰 Currently serving as a Teaching Assistant for Digital Logic Design Lab at HDU.
+5. Awarded **Provincial Second Prize** in Zhejiang Provincial Undergraduate Artificial Intelligence Competition in Nov.2025
 
-🏛️ Involved in a **National Social Science Fund project**:
+6. Experienced in Electronic Design Competition (Instrumentation Track) (stopped at HDU match, mentored by Prof. Qinhua Sheng).
 
-“Research on the Evaluation and Enhancement Path of AI Large Model Sustainable Development Capability from the Perspective of Energy Correlation” 
+7. Participated in the **Planar Microwave Sensor project** under the guidance of Prof. Guohua Liu.
 
-(with HDU School of Management, under the guidance of Prof. Liu Zheng'gang).
+8. Currently serving as a **Teaching Assistant for Digital Logic Design Lab**  mentored by Prof. Jiye Huang.
 
-🌱 Interests & Focus
+9. Involved in a **National Social Science Fund project**: 《Research on Sustainable Development Capability Evaluation and Promotion of AI Large Models》
 
-🔧 Embedded System Debugging
+(with HDU School of Management, under the guidance of Prof. Zheng'gang Liu).
 
-⚙️ FPGA & Verilog Development
+## Interests & Focus
 
-💻 Full-Stack Development (Frontend + Backend)
-
-🖥️ Server Maintenance & Website Deployment
+Embedded System Debugging , FPGA & Verilog Development, Full-Stack Development (Frontend + Backend), Server Maintenance & Website Deployment
 
 🌐 My personal domain: [cxrice.tech](https://cxrice.tech/)
 
-📚 Currently Learning
 
-Core courses in *Electronics & Information Engineering*
-
-Advanced C/C++, Python, Verilog, and Web Development foundations
-
-Exploring AI-driven embedded applications
 
 ---
 
@@ -86,6 +78,7 @@ Exploring AI-driven embedded applications
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white" />
 </p>
+
 
 
 
