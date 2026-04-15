@@ -26,9 +26,6 @@
 
 Embedded System Debugging , FPGA & Verilog Development, Full-Stack Development (Frontend + Backend), Server Maintenance & Website Deployment
 
-🌐 My personal domain: [cxrice.tech](https://cxrice.tech/)
-
-
 
 ---
 
