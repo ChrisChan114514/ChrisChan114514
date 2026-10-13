@@ -1,30 +1,30 @@
-## 👋 Hi, I'm Chris Chan (@ChrisChan114514) , an Undergraduate developer from Hangzhou Dianzi University.
+## 👋 Hi, I'm Chris Chan (@ChrisChan114514) , an incoming Master student from Southeast University & Undergraduate from Hangzhou Dianzi University.
 
-##  About Me
+## 🎓 Research & Study Profile
+### Graduate Research Profile
+> Admitted via postgraduate recommendation to **School of Information Science and Engineering, Southeast University**, major in **Circuits and Systems**.
+> Supervisor: Prof. Qin Li.
+> Research Interests: Analog Integrated Circuits, Radio-Frequency Integrated Circuits, IC EDA Technology.
+> Currently learning fundamentals of RF circuits and integrated circuits.
 
+- Research Project 1: Integrated LNA Design for FR3 Band
+  Joint undergraduate graduation project between Hangzhou Dianzi University and Southeast University.
+  Supervisors: Prof. Jincai Wen, Prof. Qin Li.
+
+### Undergraduate Practical Experience
 1. Focusing on Embedded Systems, Microcontroller Development and **SoC Design**.
-
 2. Awarded **Provincial Second Prize** in the China Undergraduate Mathematical Contest in Modeling (CUMCM) in Sep. 2025
-
 3. Awarded **Provincial Second Prize** in Zhejiang Provincial Undergraduate Mechanics Competition in Oct. 2025
-
 4. Awarded **Provincial Third Prize** in Zhejiang Provincial Undergraduate Engineering Practice and Innovation Ability Competition in Nov.2025
-
 5. Awarded **Provincial Second Prize** in Zhejiang Provincial Undergraduate Artificial Intelligence Competition in Nov.2025
-
 6. Experienced in Electronic Design Competition (Instrumentation Track) (stopped at HDU match, mentored by Prof. Qinhua Sheng).
-
 7. Participated in the **Planar Microwave Sensor project** under the guidance of Prof. Guohua Liu.
-
 8. Currently serving as a **Teaching Assistant for Digital Logic Design Lab**  mentored by Prof. Jiye Huang.
-
 9. Involved in a **National Social Science Fund project**: 《Research on Sustainable Development Capability Evaluation and Promotion of AI Large Models》
-
 (with HDU School of Management, under the guidance of Prof. Zheng'gang Liu).
 
 ## Interests & Focus
-
-Embedded System Debugging , FPGA & Verilog Development, Full-Stack Development (Frontend + Backend), Server Maintenance & Website Deployment
+Analog / RF IC Design, IC EDA, Embedded System Debugging , FPGA & Verilog Development, Full-Stack Development (Frontend + Backend), Server Maintenance & Website Deployment
 
 
 ---
@@ -75,9 +75,3 @@ Embedded System Debugging , FPGA & Verilog Development, Full-Stack Development (
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white" />
 </p>
-
-
-
-
-
-
