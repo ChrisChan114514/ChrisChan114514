@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Chris Chan (@ChrisChan114514) ,
-an incoming Master student from Southeast University & Undergraduate from Hangzhou Dianzi University.
+##  an incoming Master student from Southeast University & Undergraduate from Hangzhou Dianzi University.
 
 ## 🎓 Research & Study Profile
 ### Graduate Research Profile
