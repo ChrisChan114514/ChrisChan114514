@@ -3,13 +3,11 @@
 ## 🎓 Research & Study Profile
 ### Graduate Research Profile
 > Admitted via postgraduate recommendation to **School of Information Science and Engineering, Southeast University**, major in **Circuits and Systems**.
-> Supervisor: Prof. Qin Li.
-> Research Interests: Analog Integrated Circuits, Radio-Frequency Integrated Circuits, IC EDA Technology.
+> Research Interests: Analog Integrated Circuits, Radio-Frequency Integrated Circuits, IC EDA Technology (AI Agent).
 > Currently learning fundamentals of RF circuits and integrated circuits.
 
 - Research Project 1: Integrated LNA Design for FR3 Band
   Joint undergraduate graduation project between Hangzhou Dianzi University and Southeast University.
-  Supervisors: Prof. Jincai Wen, Prof. Qin Li.
 
 ### Undergraduate Practical Experience
 1. Focusing on Embedded Systems, Microcontroller Development and **SoC Design**.
